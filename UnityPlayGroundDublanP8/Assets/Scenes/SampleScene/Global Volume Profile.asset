@@ -156,7 +156,7 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.79040384, z: 0.9457314, w: 0}
+    m_Value: {x: 1, y: 0.750692, z: 0.97145456, w: 0}
   midtones:
     m_OverrideState: 0
     m_Value: {x: 0.83093333, y: 0.9488905, z: 1, w: 0}
